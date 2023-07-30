@@ -1,0 +1,73 @@
+
+.aboutus{
+    width: 85%;
+    height: 250px;
+    margin: auto;
+    font-family: "Poppins", sans-serif;
+    background-image: url("https://images.unsplash.com/photo-1612726381005-d87b40d5b123?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1113&q=80");
+    background-repeat: space;
+    background-size: cover;
+    background-position: center;
+    opacity: 1;
+   
+}
+
+
+
+
+
+.imagee{
+    width: 85%;
+    margin: auto;
+    height: 400px;
+}
+
+.containertop h2{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    padding-right: 200px;
+
+    
+}
+.textt{
+    width: 85%;
+    margin: auto;
+
+}
+
+.section-title {
+    margin-bottom: 60px;
+}
+
+.text-center {
+    text-align: center!important;
+}
+.section-title h3 {
+    font-weight: 400;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
+
+.row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.member-pic {
+    position: relative;
+}
+
+.team-member{
+    margin: 18px;
+    box-sizing: border-box;
+    border-radius: 2px;
+    display: flex;
+    height: 164px;
+    background: #e5e5e5;
+    padding: 33px;
+}
